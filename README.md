@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qrcodecomponent-using-flexbox-Ia7ERhfLPz)
-- Live Site URL: [Live site](https://alw-qr-code-component.netlify.app/)
+- Live Site URL: [Live Site](https://alw-qr-code-component.netlify.app/)
 
 ## My process
 
@@ -33,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [SYD](https://www.your-site.com)
+- Website - [SYD]()
 - Frontend Mentor - [@alawi17](https://www.frontendmentor.io/profile/alawi17)
 - Twitter - [@SydAlawie](https://www.twitter.com/SydAlawie)
 
