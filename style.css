@@ -51,7 +51,7 @@ body {
   text-align: center;
 }
 
-.text h2 {
+.text h1 {
   color: var(--dark-blue);
   margin-bottom: 1rem;
 }
