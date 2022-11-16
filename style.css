@@ -28,9 +28,9 @@ body {
 }
 
 @media (min-width: 375px) {
-    .container {
-        width: 400px;
-    }
+  .container {
+    width: 400px;
+  }
 }
 
 .card {
@@ -55,7 +55,7 @@ body {
 
 .text p {
   color: var(--grayish-blue);
-  padding-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 .attribution {
