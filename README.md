@@ -33,10 +33,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [SYD]()
 - Frontend Mentor - [@alawi17](https://www.frontendmentor.io/profile/alawi17)
-- Twitter - [@SydAlawie](https://www.twitter.com/SydAlawie)
 
 ## Acknowledgments
 
-Thanks to Mr Coder and TsbSankara on YouTube, they really help me to get this solution done.
+Thanks to Mr Coder, Andreas Remdt and TsbSankara on YouTube, they really help me to get this solution done.
